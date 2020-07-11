@@ -1,0 +1,3 @@
+testing data
+data yang di kasi masuk adalah data yang sudah benar
+ini data pada baris ke 3
