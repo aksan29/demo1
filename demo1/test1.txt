@@ -1,3 +1,5 @@
 testing data
 data yang di kasi masuk adalah data yang sudah benar
 ini data pada baris ke 3
+ini data tambahan
+line 5 data baru lagi ini 
